@@ -34,7 +34,7 @@ table#table tr:nth-child(odd) {
 table#table th {
   
     color: white;
-    background-color: #3366ff;
+    background-color: #0066ff;
     
 }
     
@@ -52,7 +52,7 @@ img {
     margin: 0 auto;
     border-width: 8px;
     border-radius: 5px;
-    border-color: #3366ff;
+    border-color: #0066ff;
     border-style: ridge;
   
 }  
@@ -84,7 +84,7 @@ li a:hover:not(.active) {
 
 li a.active {
     color: white;
-    background-color: #3366ff;
+    background-color: #0066ff;
 }  
   
     
