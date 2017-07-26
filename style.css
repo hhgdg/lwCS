@@ -13,7 +13,11 @@ table, th, td {
     border-style: solid;
     border-color: black;
 
+}
+    
 table#table {    
+    
+    width: 100%;
     
     table#table tr:nth-child(even) {
     background-color: #eee;
