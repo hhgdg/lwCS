@@ -19,20 +19,26 @@ table#table {
     
     width: 100%;
     
-    table#table tr:nth-child(even) {
+}    
+  
+table#table tr:nth-child(even) {
+    
     background-color: #eee;
-    }
+}
 
-    table#table tr:nth-child(odd) {
+table#table tr:nth-child(odd) {
+
     background-color: #fff;
-    }
-
-    table#table th {
+}
+ 
+table#table th {
+  
     color: white;
     background-color: blue;
-    }
     
-}    
+}
+    
+    
     
 h1 {
   
