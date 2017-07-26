@@ -18,8 +18,8 @@ img {
   
     display: block;
     margin: 0 auto;
-    border-width: 6px;
-    border-radius: 6px;
+    border-width: 8px;
+    border-radius: 5px;
     border-color: blue;
     border-style: ridge;
   
