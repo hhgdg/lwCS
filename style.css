@@ -1,6 +1,12 @@
+h3 {
+   
+   color: #0066ff;
+   text-align: left;
+   font-family: helvetica;
+
 body {
    
-    background-color: #ffffff;
+   background-color: #ffffff;
     
 }
     
@@ -48,10 +54,10 @@ table#table th {
     
 h1 {
   
-    color: #3366ff;
+    color: #0066ff;
     text-align: center;
     font-family: helvetica;
-    font-size: 70;
+    
 }
 
 img {
