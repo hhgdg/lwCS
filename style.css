@@ -42,7 +42,8 @@ table#table th {
   
     color: white;
     background-color: #0066ff;
-    
+    text-align: left; 
+   
 }
     
 h1 {
